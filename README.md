@@ -1,28 +1,17 @@
 ### Hi there 👋
 
-<!--
-**pgcodedeveloper/pgcodedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Soy Pablo Gillespie, Desarrollador de Software y Web tanto Front-End como Back-End. Me especializo en tecnologias como:
  
- <ul>
-        <li>👉 HTML5</li>
-        <li>👉 CSS3</li>
-        <li>👉 SCSS</li>
-        <li>👉 JavaScript</li>
-        <li>👉 PHP</li>
-        <li>👉 Java</li>
-        <li>👉 C# .NET</li>
-        <li>👉 SQL (MySQL y PostgreSQL)</li>
-</ul>
+
+- 👉 HTML5 
+![236066261-e0f4647b-7892-4e31-8cbf-a2aa7d686594](https://user-images.githubusercontent.com/103851582/236067796-2cc2b03f-a169-4353-9cdd-2fe654f5a615.png)
+
+- 👉 CSS3
+- 👉 SCSS
+- 👉 JavaScript
+- 👉 PHP
+- 👉 Java
+- 👉 C# .NET
+- 👉 SQL (MySQL y PostgreSQL)
+
