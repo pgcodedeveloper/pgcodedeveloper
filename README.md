@@ -4,7 +4,7 @@
 ![Banner PG CODE](https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/ec6c8d6a-5054-4a86-8008-69504169d675)
 
 <h2 align="center"> About me 💁 </h2>
-<p align="center"> Soy Desarrollador de Software 🖥️ 💻 y Web. Estoy especializado en tecnologias tanto Front-End como Back-End. Me encantan los retos y aprender cosas nuevas cada día. </p>
+<p align="center"> Soy Desarrollador de FullStack 🖥️💻📱. Estoy especializado en diversas tecnologias. Me encantan los retos y aprender cosas nuevas cada día. </p>
 
 
 <h2 align="center">Mis principales skils son: </h2>
