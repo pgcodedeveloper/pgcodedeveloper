@@ -1,94 +1,50 @@
-
-### <h1> Hi I'm Pablo Gillespie ✋! </h1>
-
+### Hey! Soy Pablo Gillespie ✋!
 ![Banner PG CODE](https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/ec6c8d6a-5054-4a86-8008-69504169d675)
 
-<h2 align="center"> About me 💁 </h2>
-<p align="center"> Soy Desarrollador de FullStack 🖥️💻📱. Estoy especializado en diversas tecnologias. Me encantan los retos y aprender cosas nuevas cada día. </p>
+Soy un desarrollador apasionado por la creación de soluciones innovadoras y amigables para el usuario. Con experiencia en una variedad de tecnologías, estoy constantemente aprendiendo y buscando mejorar mis habilidades.
+
+---
+## Habilidades
+
+| | | |
+|---|---|---|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) |
+| ![Astro](https://img.shields.io/badge/Astro-0095D5?style=for-the-badge&logo=astro&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![Postgres](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white) | | |
+
+---
+
+¡Siempre estoy abierto a colaboraciones interesantes y oportunidades emocionantes! No dudes en ponerte en contacto conmigo a través de mi perfil de GitHub.
 
 
-<h2 align="center">Mis principales skils son: </h2>
+## Proyectos Destacados
 
-<p align="center">
-  <a>
-    <img src="https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/ac6bb8ed-e337-42ec-93d8-c1ac99b40afe" alt="HTML5" width="30px" height="30px">
-  </a>
-  <a>
-    <img src="https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/87afa2c3-35cc-40f3-bab6-36b5880ef3b5" alt="CSS3" width="30px" height="30px">
-  </a>
+Aquí hay una lista de algunos de mis proyectos destacados:
 
-  <a>
-    <img src="https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/39de25ae-817b-48d0-b7b4-bc1a931e27d1" alt="JS" width="30px" height="30px">
-  </a>
+1. **Agenda Virtual**
+   - Descripción: Proyecto de una agenda virtual dónde el usuario puede administrar tareas y eventos; los cuales se sincronizan con su cuenta de Google Calendar y Google Tasks.
+   - Tecnologías utilizadas: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black), ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white), ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white), ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white), ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) y más.
+   - Enlace al repositorio: [Agenda Virtual(FrontEnd)](https://github.com/pgcodedeveloper/pg_agenda_frontend)
+                            [Agenda Virtual(BackEnd)](https://github.com/pgcodedeveloper/pg_agenda_backend)
 
-  <a>
-    <img src="https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/9e178166-fbb3-48cf-ba4d-ccfb22c3f6ee" alt="SCSS" width="30px" height="30px">
-  </a>
+2. **CMS Clientes**
+   - Descripción: Proyecto realizado para un cliente de un estudio de arquitectura que necesitaba un sistema que le permita administrar sus clientes y trámites, tanto para propios como particulares.
+   - Tecnologías utilizadas: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black), ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white), ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) y más.
+   - Enlace al repositorio: [CMS Clientes](https://github.com/pgcodedeveloper/pgcms)
 
-  <a>
-    <img src="https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/d7caed59-8a78-453a-a139-7f8d5a54433a" alt="PHP" width="30px" height="30px">
-  </a>
+3. **Control de Gastos**
+   - Descripción: Proyecto para administrar los gastos personales, permite el sacado de reportes cuando finaliza el mes.
+   - Tecnologías utilizadas: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black).
+   - Enlace al repositorio: [Control de Gastos](https://github.com/pgcodedeveloper/appgastos)
 
-  <a>
-    <img src="https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/440cf4e5-28dd-4044-b765-74a260f5c8d0" alt="JAVA" width="30px" height="30px">
-  </a>
-
-  <a>
-    <img src="https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/363b87ec-203f-4d76-ad53-b6dd13d8fd2c" alt="C#" width="30px" height="30px">
-  </a>
-
-  <a>
-    <img src="https://github.com/pgcodedeveloper/pgcodedeveloper/assets/103851582/d3ea292b-8490-4659-b225-6b890dca488f" alt="SLQ" width="30px" height="30px">
-  </a>
-</p>
-
-
-<h1 align="center"> PROYECTOS </h1>
- 
-<h3 align="center">Control de Gastos:</h3>
-<p align="center">
-    <a href="https://appgastos2022.netlify.app">
-      Demo
-    </a>
-    <a href="https://github.com/pgcodedeveloper/appgastos">
-      Repo
-    </a>
-</p>
+¡Estos son solo algunos ejemplos! Puedes encontrar más proyectos en mi perfil de GitHub o visitando mi porfolio personal: [PGCODE](https://pgcodedev.netlify.app/).
 
 #
 
-<h3 align="center">Bebidas App: </h3>
-<p align="center">
-    <a href="https://bebidas-app-pgcode.netlify.app/">
-      Demo
-    </a>
-    <a href="https://github.com/pgcodedeveloper/bebidasApp">
-      Repo
-    </a>
-</p>
-
-<h3 align="center">DevWebCamp (Conferencia web) </h3>
-<p align="center">
-    <a href="https://github.com/pgcodedeveloper/DevWebCamp">
-      Repo
-    </a>
-</p>
-
-#
-
-<h3 align="center">UpTask </h3>
-<p align="center">
-    <a href="https://github.com/pgcodedeveloper/UpTask_MERN_frontend">
-      Repo
-    </a>
-</p>
-
-#
-
-<h3 align="center">Y muchos más... </h3>
-
-
-<h2 align="center">Github stats :bar_chart:</h2>
+## Github stats :bar_chart:
 
 <h4 align="center">Top langs :tongue:</h4>
 
