@@ -44,13 +44,21 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 #
 
-## Github stats :bar_chart:
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pgcodedeveloper&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![pgcodedeveloper GitHub stats](https://github-readme-stats.vercel.app/api?username=pgcodedeveloper&theme=algolia)](https://github.com/pgcodedeveloper/github-readme-stats)
 
 <h4 align="center">Top langs :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgcodedeveloper&langs_count=10&theme=tokyonight&layout=compact" alt="PGCODE :: Top Langs" /></p>
+<br>
 
+## GitHub Thropies 🏆 :
 
----
+<br>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=pgcodedeveloper)](https://github.com/pgcodedeveloper/github-profile-trophy)
 
+<br>
